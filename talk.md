@@ -1,5 +1,90 @@
-# How to make your reviewer fall in love with you
+### How to make your reviewer fall in love with you
 
 
 
-# I am
+<!-- Blank side for story -->
+<!-- .slide: data-background="black" -->
+
+
+
+`https://mtlynch.io/code-review-love/`
+
+![What the blog post looks like](/images/blog_post.png)
+
+
+
+Why PR?
+
+
+
+* Learn **quicker**
+* Be a **good example**
+* **Minimize** conflict
+
+
+
+# Value your reviewer's time
+
+
+
+1 Review your own code **first**
+
+
+
+2 Give a clear context
+
+
+
+3 Automate the easy stuff
+
+
+
+4 Make the code answer the questions
+
+
+
+5 Narrow down the scope
+
+
+
+6 Separate functional and non-functional changes
+
+
+
+7 Divide up large changes
+
+
+
+8 Be thankful
+
+
+
+9 **Be patient** when your reviewer is wrong
+
+
+
+10 Communicate status clearly
+
+
+
+11 Give the reviewer the benefit of the doubt
+
+
+
+12 Minimize time between review rounds
+
+
+
+# What can the reviewer do?
+
+
+
+The reviewer is most valuable when focusing on the **interesting** things of a PR
+
+
+
+Think of the other person! Being evaluated is tense
+
+
+
+# Congratulations on making people fall in love with you!
