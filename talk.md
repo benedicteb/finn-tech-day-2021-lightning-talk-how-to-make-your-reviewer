@@ -79,11 +79,11 @@ Why PR?
 
 
 
-The reviewer is most valuable when focusing on the **interesting** things of a PR
+# Take aways
 
-
-
-Think of the other person! Being evaluated is tense
+1. Let the reviewer focus on the important stuff
+2. We don't need big PRs
+3. Have empathy! Being evaluated is tense
 
 
 
