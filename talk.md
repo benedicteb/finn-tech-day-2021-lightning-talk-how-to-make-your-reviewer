@@ -19,7 +19,7 @@ with you
 
 `https://mtlynch.io/code-review-love/`
 
-![What the blog post looks like](/images/blog_post.png)
+<img src="/images/blog_post.png" height="500px" />
 
 
 
