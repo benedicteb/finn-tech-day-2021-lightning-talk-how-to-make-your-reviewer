@@ -55,6 +55,8 @@ with you
 
 > Give a clear context
 
+What **earthly problem** are we solving here?
+
 
 
 # pt. 3
@@ -85,6 +87,8 @@ Go away **scope creep**! Don't want'cha here..
 
 > Separate functional and non-functional changes
 
+3-step deployment yo'
+
 
 
 <img src="https://mtlynch.io/code-review-love/mixed-refactoring_hu4c6575d9cffbb1d95e8ff72a4e98c1dd_65801_600x0_resize_lanczos_2.png" height="600px" />
@@ -94,6 +98,8 @@ Go away **scope creep**! Don't want'cha here..
 # pt. 8
 
 > Be thankful
+
+You made a **great** PR if the reviewer finds things
 
 
 
@@ -108,6 +114,8 @@ In **MY** code? That's impossible!
 # pt. 10
 
 > Communicate status clearly
+
+Ready for re-review!
 
 
 
