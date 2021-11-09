@@ -141,9 +141,9 @@ can the reviewer do something? 🤔
 
 # Take aways
 
-1. Let the reviewer focus on the important stuff
-2. We don't need big PRs
-3. Have empathy! Being evaluated is tense
+1. Enable the reviewer to focus on the **important stuff**
+2. We _don't_ need big PRs
+3. Have **empathy** 💕! Being evaluated is tense
 
 
 
