@@ -23,69 +23,103 @@ with you
 
 
 
-Why PR?
+# Why code review?
+
+* **More** eyes
+* Make others **better** ✨
+* ~~We've always done it~~
 
 
+
+# Why improve code review?
 
 * Learn **quicker**
 * Be a **good example**
-* **Minimize** conflict
+* **Minimize** friction
 
 
 
-# Value your reviewer's time
+# Golden rule
+
+> Value your reviewer's time
 
 
 
-1 Review your own code **first**
+# pt. 1
+
+> Review your own code **first**
 
 
 
-2 Give a clear context
+# pt. 2
+
+> Give a clear context
 
 
 
-3 Automate the easy stuff
+# pt. 3
+
+> Automate the easy stuff
 
 
 
-4 Make the code answer the questions
+# pt. 4
+
+> Make the code answer the questions
 
 
 
-5 Narrow down the scope
+# pt. 5
+
+> Narrow down the scope
 
 
 
-6 Separate functional and non-functional changes
+# pt. 5
+
+> Separate functional and non-functional changes
 
 
 
-7 Divide up large changes
+# pt. 7
+
+> Divide up large changes
 
 
 
-8 Be thankful
+# pt. 8
+
+> Be thankful
 
 
 
-9 **Be patient** when your reviewer is wrong
+# pt. 9
+
+> **Be patient** when your reviewer is wrong
 
 
 
-10 Communicate status clearly
+# pt. 10
+
+> Communicate status clearly
 
 
 
-11 Give the reviewer the benefit of the doubt
+# pt. 11
+
+> Give the reviewer the benefit of the doubt
 
 
 
-12 Minimize time between review rounds
+# pt. 12
+
+> Minimize time between review rounds
 
 
 
-# What can the reviewer do?
+# But...
+
+can the reviewer do something? 🤔
 
 
 
@@ -97,4 +131,6 @@ Why PR?
 
 
 
-# Congratulations on making people fall in love with you!
+# Congrats! 🎉
+
+People will now fall in love with you! ❤️
