@@ -39,7 +39,7 @@ with you
 
 
 
-# Golden rule
+# ⭐ Golden rule ⭐
 
 > Value your reviewer's time
 
