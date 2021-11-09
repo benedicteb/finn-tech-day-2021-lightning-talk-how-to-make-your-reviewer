@@ -82,6 +82,7 @@ with you
 > Separate functional and non-functional changes
 
 
+
 <img src="https://mtlynch.io/code-review-love/mixed-refactoring_hu4c6575d9cffbb1d95e8ff72a4e98c1dd_65801_600x0_resize_lanczos_2.png" height="600px" />
 
 
