@@ -77,6 +77,8 @@ The age of using people as CI should be over 🙈
 
 > Narrow down the scope
 
+Go away **scope creep**! Don't want'cha here..
+
 
 
 # pt. 6
