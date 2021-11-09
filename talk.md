@@ -61,6 +61,8 @@ with you
 
 > Automate the easy stuff
 
+The age of using people as CI should be over 🙈
+
 
 
 # pt. 4
