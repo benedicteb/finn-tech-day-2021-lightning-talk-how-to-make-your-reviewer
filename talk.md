@@ -67,6 +67,8 @@ with you
 
 > Make the code answer the questions
 
+<img src="https://mtlynch.io/code-review-love/having-trouble.png" />
+
 
 
 # pt. 5
@@ -75,15 +77,12 @@ with you
 
 
 
-# pt. 5
+# pt. 6
 
 > Separate functional and non-functional changes
 
 
-
-# pt. 7
-
-> Divide up large changes
+<img src="https://mtlynch.io/code-review-love/mixed-refactoring_hu4c6575d9cffbb1d95e8ff72a4e98c1dd_65801_600x0_resize_lanczos_2.png" height="600px" />
 
 
 
@@ -97,6 +96,8 @@ with you
 
 > **Be patient** when your reviewer is wrong
 
+In **MY** code? That's impossible!
+
 
 
 # pt. 10
@@ -107,7 +108,9 @@ with you
 
 # pt. 11
 
-> Give the reviewer the benefit of the doubt
+> Award all ties to your reviewer
+
+Tennis-style!
 
 
 
